@@ -22,6 +22,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="helperFunctions.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="methoden.py" />
     <Compile Include="RSA.py" />
   </ItemGroup>
   <PropertyGroup>
