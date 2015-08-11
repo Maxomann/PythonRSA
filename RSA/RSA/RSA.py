@@ -1,8 +1,13 @@
-from methoden import *
+﻿from methoden import *
 from helperFunctions import *
 
 import sys
 import math
 
-for i in range(0,10)
-    print(check_prime(rand_prime()));
+message = 5
+
+keysA = generateKeys()
+keysB = generateKeys()
+
+print(keysA)
+print(keysB)
